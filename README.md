@@ -21,7 +21,7 @@
 
 ### [Week3] 수치표고모델(DEM)
 - 유적분포도 / DSM, DEM, DTM / 향분석
-- [PPT](https://github.com/ChanToRe/GIS-Applications-in-Archaeology/blob/main/Week3/3%EC%A3%BC%EC%B0%A8%2C%20%EC%88%98%EC%B9%98%ED%91%9C%EA%B3%A0%EB%AA%A8%EB%8D%B8(%EC%88%AD%EC%8B%A4%EB%8C%80%20%EC%84%9D%EC%82%AC%EA%B3%BC%EC%A0%95%20%EC%A3%BC%EC%B0%AC%ED%98%81).pdf)
+- [PPT](https://github.com/ChanToRe/GIS-Applications-in-Archaeology/blob/main/Week3/3%EC%A3%BC%EC%B0%A8%2C%20%EC%88%98%EC%B9%98%ED%91%9C%EA%B3%A0%EB%AA%A8%EB%8D%B8(%EC%88%AD%EC%8B%A4%EB%8C%80%20%EC%84%9D%EC%82%AC%EA%B3%BC%EC%A0%95%20%EC%A3%BC%EC%B0%AC%ED%98%81).pdf) / [Data](https://github.com/ChanToRe/GIS-Applications-in-Archaeology/blob/main/Week3/C14_pithouse.csv)
 
 ### [Week4] 커널 밀도 추정 분석
 - KDE / 조판
