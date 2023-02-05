@@ -28,7 +28,8 @@
 - [PPT](https://github.com/ChanToRe/GIS-Applications-in-Archaeology/blob/main/Week4/4%EC%A3%BC%EC%B0%A8%2C%20%EC%BB%A4%EB%84%90%20%EB%B0%80%EB%8F%84%20%EC%B6%94%EC%A0%95%20%EB%B6%84%EC%84%9D(%EC%88%AD%EC%8B%A4%EB%8C%80%20%EC%84%9D%EC%82%AC%EA%B3%BC%EC%A0%95%20%EC%A3%BC%EC%B0%AC%ED%98%81).pdf)
 
 ### [Week5] R연동과 다양한 공간분석지표
-- 작성중
+- R 연동 / 최근린분석 / Moran's I
+- [PPT](https://github.com/ChanToRe/GIS-Applications-in-Archaeology/blob/main/Week5/5%EC%A3%BC%EC%B0%A8%2C%20R%EC%97%B0%EB%8F%99%EA%B3%BC%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EA%B3%B5%EA%B0%84%EB%B6%84%EC%84%9D%EC%A7%80%ED%91%9C.pdf)
 
 ### [Week6] 가시권 분석
 - 작성중
