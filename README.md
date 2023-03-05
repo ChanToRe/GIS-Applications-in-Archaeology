@@ -40,7 +40,7 @@
 - 서하운
 - 작성중
 
-### [Week7] 음영기복도와 가시권 분석
+### [Week8] 음영기복도와 가시권 분석
 - 주찬혁
 - 음영기복도 / 가시권 분석
 - [PPT](https://github.com/ChanToRe/GIS-Applications-in-Archaeology/blob/main/Week8/8%EC%A3%BC%EC%B0%A8%2C%20%EC%9D%8C%EC%98%81%EA%B8%B0%EB%B3%B5%EB%8F%84%EC%99%80%20%EA%B0%80%EC%8B%9C%EA%B6%8C%20%EB%B6%84%EC%84%9D.pdf)
